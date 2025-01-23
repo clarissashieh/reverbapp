@@ -9,4 +9,4 @@ See full project description here: https://docs.google.com/document/d/1R3NTQi7xQ
   
 * Concerts: utilizes Spotify's API to get user's top artists and displays upcoming concerts using Ticketmaster's API.
 
-**All features use AWS Lambda, API Gateway, RDS, and S3.**
+**Reverb is serverless and all features use AWS Lambda, API Gateway, RDS, and S3.**
